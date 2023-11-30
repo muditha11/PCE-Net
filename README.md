@@ -1,4 +1,4 @@
-# **Degradation-invariant Enhancement of Fundus Images via Pyramid Constraint Network**
+# **Extension for Degradation-invariant Enhancement of Fundus Images**
 
 This is an extension made out of the original PCE-Net implementation
 
