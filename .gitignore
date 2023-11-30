@@ -31,6 +31,8 @@ test/data/legacy_modules.t7
 test/data/gpu_tensors.pt
 test/htmlcov
 test/.coverage
+data/get_low_quality/sample_extract
+data/get_low_quality/train.zip.005.zip
 */*.pyc
 */**/*.pyc
 */**/**/*.pyc
